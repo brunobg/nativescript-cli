@@ -7,6 +7,8 @@ position: 5
 
 ### Description
 
+[Cloud builds are no longer available](https://nativescript.org/blog/migration-of-nativescript-cloud-builds-to-circle-ci/)
+
 Install the `nativescript-cloud extension` to configure your environment for cloud builds.
 
 ### Commands
